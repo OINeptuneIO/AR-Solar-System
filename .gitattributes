@@ -4,4 +4,13 @@
 
 SSv.12.1.apk filter=lfs diff=lfs merge=lfs -text
 SSv.12.apk filter=lfs diff=lfs merge=lfs -text
+40a2be22edb3867290bad5f56ab7c531 filter=lfs diff=lfs merge=lfs -text
+c0302dc98fa931a7accf13e2255c246f filter=lfs diff=lfs merge=lfs -text
+data.unity3d filter=lfs diff=lfs merge=lfs -text
+data.unity3d.jar filter=lfs diff=lfs merge=lfs -text
+launcher-release.apk filter=lfs diff=lfs merge=lfs -text
+out.aar filter=lfs diff=lfs merge=lfs -text
+libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
 Europa8K.tif filter=lfs diff=lfs merge=lfs -text
